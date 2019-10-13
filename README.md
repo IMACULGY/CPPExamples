@@ -1,3 +1,5 @@
+Thanks to everyone who is helping. Good luck on Hacktoberfest!
+
 # C++ Program Examples
 
 ![](https://i.imgur.com/EMPZ23g.png)
