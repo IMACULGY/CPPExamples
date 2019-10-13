@@ -4,7 +4,7 @@ Thanks to everyone who is helping. Good luck on Hacktoberfest!
 
 ![](https://i.imgur.com/EMPZ23g.png)
 
-C++ is a powerful programming languages. Everyone looking to get into coding should learn it at some point.
+C++ is one of the most powerful programming languages with a wide variety of real-world uses. This being said, everyone looking to get into coding should familiarize themselves with it at some point.
 
 This repository is meant to provide examples of C++ program prompts with accompanying code solutions to help beginners understand the basic syntax of C++ and important aspects of programming as a whole.
 
