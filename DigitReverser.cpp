@@ -3,7 +3,7 @@ using namespace std;
 
 string reverse(string number)
 {
-	int ind = 0;
+    int ind = 0;
     string ans;
     if(number[0] == '-')
     {
@@ -24,7 +24,7 @@ string reverse(string number)
             ans+=number[i];
         }
     }
-	if(number == "0" || number == "-0")
+    if(number == "0" || number == "-0")
     {
         ans = number;
     }
@@ -36,6 +36,6 @@ int main()
     string number;
     cout<<"Enter the number to be reversed: ";
     cin>>number;
-	cout<<endl;
-	cout<<"Reversed number: "<<reverse(number);    
+    cout<<endl;
+    cout<<"Reversed number: "<<reverse(number);    
 }
