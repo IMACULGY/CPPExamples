@@ -12,7 +12,7 @@ C++ is a sophisticated, efficient and a general-purpose programming language bas
 
 ## The history/Origin of C++
 
-![Source](https://www.tutorialspoint.com/History-of-Cplusplus-language)
+[Source](https://www.tutorialspoint.com/History-of-Cplusplus-language)
 
 The C++ programming language has a history going back to 1979, when Bjarne Stroustrup was doing work for his Ph.D. thesis. He began work on "C with Classes", which as the name implies was meant to be a superset of the C language. His goal was to add object-oriented programming into the C language, which was and still is a language well-respected for its portability without sacrificing speed or low-level functionality.
 
