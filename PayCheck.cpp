@@ -82,6 +82,18 @@ void funcOne(int* x, int y){
     cout<<"Updated value of x= "<<*x<<endl;
 }
 
+void nextChar(char* z){
+    if(*z == ' '){
+        *z = 'a';
+    }else{
+        int ch = *z - 'a';
+        ch = (ch+1)%26;
+        *z = ch + 'a';
+    }
+
+    cout<<"Updated value of z is: "<<*z<<endl; 
+}
+
 int main(){
 
     int x, y;
@@ -99,6 +111,8 @@ int main(){
     funcOne(&x,y);   // x=2 for input=-2
     
     funcOne(&x,y);  // x=1 for input=3
+
+    nextChar(&z);
 
     return 0;
 }
