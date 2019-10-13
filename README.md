@@ -10,9 +10,7 @@ This repository is meant to provide examples of C++ program prompts with accompa
 
 > C++ is a sophisticated, efficient and a general-purpose programming language based on C.
 
-## The history/Origin of C++
-
-[Tutorials Point](https://www.tutorialspoint.com/History-of-Cplusplus-language/){target=\_blank}
+[## The history/Origin of C++](https://www.tutorialspoint.com/History-of-Cplusplus-language/)
 
 The C++ programming language has a history going back to 1979, when Bjarne Stroustrup was doing work for his Ph.D. thesis. He began work on "C with Classes", which as the name implies was meant to be a superset of the C language. His goal was to add object-oriented programming into the C language, which was and still is a language well-respected for its portability without sacrificing speed or low-level functionality.
 
