@@ -1,4 +1,5 @@
 # C++ Program Examples
+
 ![](https://i.imgur.com/EMPZ23g.png)
 
 C++ is a powerful programming languages. Everyone looking to get into coding should learn it at some point.
@@ -6,10 +7,12 @@ C++ is a powerful programming languages. Everyone looking to get into coding sho
 This repository is meant to provide examples of C++ program prompts with accompanying code solutions to help beginners understand the basic syntax of C++ and important aspects of programming as a whole.
 
 ## Definition of C++
+
 C++ is a sophisticated, efficient and a general-purpose programming language based on C.
 
-## The history/Origin of  C++
-![](https://www.tutorialspoint.com/History-of-Cplusplus-language)
+## The history/Origin of C++
+
+![Source](https://www.tutorialspoint.com/History-of-Cplusplus-language)
 
 The C++ programming language has a history going back to 1979, when Bjarne Stroustrup was doing work for his Ph.D. thesis. He began work on "C with Classes", which as the name implies was meant to be a superset of the C language. His goal was to add object-oriented programming into the C language, which was and still is a language well-respected for its portability without sacrificing speed or low-level functionality.
 
@@ -26,4 +29,5 @@ In 1998, the C++ standards committee published the first international standard 
 In mid-2011, the new C++ standard (C++11) was finished. The new features included Regex support, a randomization library, a new C++ time library, atomics support, a standard threading library, a new for loop syntax providing functionality similar to for each loops in certain other languages, the auto keyword, new container classes, better support for unions and array-initialization lists and variadic templates.
 
 ### Contributors are welcome!
+
 Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) to add to the repository!
