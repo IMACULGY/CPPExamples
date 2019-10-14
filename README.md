@@ -10,7 +10,9 @@ This repository is meant to provide examples of C++ program prompts with accompa
 
 ## Definition of C++
 
-C++ is a sophisticated, efficient and a general-purpose programming language based on C.
+[Link to source](https://www.techopedia.com/definition/26184/c-programming-language)
+
+C++ is a sophisticated, efficient and a general-purpose object-oriented programming language (OOP) based on C. It is therefore possible to code C++ in a "C style" or "object-oriented style." In certain scenarios, it can be coded in either way and is thus an effective example of a hybrid language.
 
 ## The history/Origin of C++
 
