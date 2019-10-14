@@ -8,10 +8,10 @@ bool isVowel(char c){
     // evaluates to 1 (true) if c is an uppercase vowel
     isUppercaseVowel = (c == 'A' || c == 'E' || c == 'I' || c == 'O' || c == 'U');
     // evaluates to 1 (true) if either isLowercaseVowel or isUppercaseVowel is true
-    if (isLowercaseVowel || isUppercaseVowel)
+    if (isLowercaseVowel || isUppercaseVowel)   //if either the vowel is a lowercase or an uppercase
         return true;
     else
-        return false;
+        return false;             //when the alphabet is not a vowel
 }
 
 int main()
