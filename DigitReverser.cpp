@@ -2,8 +2,8 @@
 using namespace std;
 
 /*
-Input: Number to be reversed
-Output: Reversed Number
+    Input: Number to be reversed
+    Output: Reversed Number
 */
 
 string reverse(string number)
@@ -40,5 +40,5 @@ int main()
 {
     string number;
     cin>>number;
-	cout<<reverse(number);    
+    cout<<reverse(number);    
 }
