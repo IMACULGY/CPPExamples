@@ -1,6 +1,11 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+/*
+	Input: Number to be reversed
+	Output: Reversed Number
+*/
+
 string reverse(string number)
 {
 	int ind = 0;
@@ -34,8 +39,6 @@ string reverse(string number)
 int main()
 {
     string number;
-    cout<<"Enter the number to be reversed: ";
     cin>>number;
-	cout<<endl;
-	cout<<"Reversed number: "<<reverse(number);    
+	cout<<reverse(number);    
 }
