@@ -101,7 +101,7 @@ int main(){
     double rate, hours;
     double amount;
 
-    initialize(&x, &y, &z);
+    initialize(&x, &y, &z);   //Passing the addresses of x,y and z
 
     cout<<"After initialisation x= "<<x<<" y= "<<y<<" z= '"<<z<<"'"<<endl;
 
