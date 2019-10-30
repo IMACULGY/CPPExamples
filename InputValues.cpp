@@ -10,7 +10,6 @@ int main()
 	cout << "Enter two integers spearated by spaces: ";
 	cin >> feet >> inches;
 	cout << endl;
-	
 	cout << "Feet = " << feet << endl;
 	cout << "Inches = " << inches << endl;
 	
